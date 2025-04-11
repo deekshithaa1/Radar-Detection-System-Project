@@ -7,11 +7,13 @@ The Arduino-Based Radar Detection System is a low-cost, real-time object detecti
 ⚙ Features
 
  🔹 User Features:
+ 
 ✔ Object Detection – Detect and track objects in real time using ultrasonic sensors  
 ✔ Graphical Visualization – Radar-like interface for monitoring detected objects  
 ✔ Portable Setup – Compact system easily deployable in various locations  
 
  🔹 Developer Features:
+ 
 ✔ Simple Hardware Integration – Easy-to-connect Arduino, servo motor, and sensor modules  
 ✔ Customizable Design – Adapt the system for specific needs like extended scanning range  
 ✔ Scalability – Integrate with IoT or AI for advanced detection capabilities  
